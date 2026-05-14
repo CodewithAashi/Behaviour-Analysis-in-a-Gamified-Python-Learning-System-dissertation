@@ -37,7 +37,7 @@ dataset (494 students, 360,000 programming interactions).
 
 ### Raw data (download from source)
 The raw CodeWorkout Fall 2019 dataset is publicly available at:  
-**https://csedm-dc.github.io/**
+**https://sites.google.com/ncsu.edu/csedm-dc-2021/dataset**
 
 Download and place these files in the same folder as the notebooks:
 - `MainTable.csv`
